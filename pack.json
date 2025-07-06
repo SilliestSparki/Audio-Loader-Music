@@ -1,0 +1,10 @@
+{
+  "name": "Beneath the Mask -Rain-",
+  "description": "Song in Persona 5",
+  "author": "SilliestSparki",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
